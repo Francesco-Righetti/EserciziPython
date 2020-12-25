@@ -2,9 +2,8 @@
 
 print("Questo programma verifica se un numero è pari o dispari.")
 
-def nuova_funzione(numero):
-
-    if (numero%2 == 0):
+def nuova_funzione(numero): #Definisco una nuova funzione e sfrutto il comando return che trasferisce i dati dalla funzione (def) allo script (return 'pari')
+    if (numero%2 == 0): #Creo un ciclo if ed elif per per stabilire la natura del valore.
          return "pari"
     elif (numero%2 == 1):
         return "dispari"
