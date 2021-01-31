@@ -1,7 +1,7 @@
 #Costruisci un dizionario ottenuto da quello dell'esercizio precedente invertendo il ruolo di chiave e valore.
 #Usa il dizionario per trovare il nome della nazione, noto il nome della capitale.
 
-lista_nazioni = ["Italia", "Svizzera", "Francia", "Austria", "Germania", "Spagna", "Portogallo", "Polonia", "Grecia", "Irlanda"] #Definisco le liste con le rispettive nazioni e capitali.
+lista_nazioni = ["Italia", "Svizzera", "Francia", "Austria", "Germania", "Spagna", "Portogallo", "Polonia", "Grecia", "Irlanda"] #Dichiaro le liste con le rispettive nazioni e capitali.
 lista_capitali = ["Roma", "Berna", "Parigi", "Vienna", "Berlino", "Madrid", "Lisbona", "Varsavia", "Atene", "Dublino"]
 dictionary = {}
 
