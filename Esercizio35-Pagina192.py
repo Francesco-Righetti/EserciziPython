@@ -2,7 +2,7 @@
 Organizza con un dizionario i dati sui conti correnti bancari con numero del conto e saldo. 
 Fornito poi il numero di conto, il programma visualizza il saldo oppure un messaggio nel caso in cui il conto non sia presente nella mappa.
 '''
-conto_corrente = {}
+conto_corrente = dict()
 
 for i in range(5):
 

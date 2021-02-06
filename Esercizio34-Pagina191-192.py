@@ -22,6 +22,6 @@ while True: #Soddisfo il primo punto della consegna, creo un ciclo while True e 
     lista_lettere_si.append(lista_dati.pop(lista_dati.index(dati_partecipanti))) #Ho aggiunto a "lista_lettere_si" l'elemento estratto dalla lista_dati che ha lo stesso indice di dati_partecipanti in lista_dati
   elif lettera == "no":
     pass
-print("Le prenotazioni per il convegno sono:", lista_dati)
+    
 print("La lista dei partecipanti è:", lista_dati)
 print("La lista dei partecipanti a cui mandare la lettera è:", lista_lettere_si)
