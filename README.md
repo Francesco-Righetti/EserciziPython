@@ -1,2 +1,2 @@
-Questi sono gli esercizi svolti da Francesco Righetti
+Questi sono gli esercizi python svolti da Francesco Righetti
 
